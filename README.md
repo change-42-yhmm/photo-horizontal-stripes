@@ -4,13 +4,13 @@
 
 ## 示例
 
-以下是用户提供的三组原图与成片。
+左侧为原图，右侧为横纹效果。点击任一缩略图查看全尺寸。
 
 | 场景 | 原图 | 横纹效果 |
 | --- | --- | --- |
-| 海滩 | [海滩原图](examples/beach-original.avif) | ![海滩横纹](examples/beach-result.png) |
-| 厨房 | [厨房原图](examples/kitchen-original.png) | ![厨房横纹](examples/kitchen-result.png) |
-| 书房 | [书房原图](examples/study-original.png) | ![书房横纹](examples/study-result.png) |
+| 海滩 | <a href="examples/beach-original.avif"><img src="examples/beach-original-preview.jpg" width="240" alt="海滩原图"></a> | <a href="examples/beach-result.png"><img src="examples/beach-result.png" width="240" alt="海滩横纹效果"></a> |
+| 厨房 | <a href="examples/kitchen-original.png"><img src="examples/kitchen-original.png" width="140" alt="厨房原图"></a> | <a href="examples/kitchen-result.png"><img src="examples/kitchen-result.png" width="140" alt="厨房横纹效果"></a> |
+| 书房 | <a href="examples/study-original.png"><img src="examples/study-original.png" width="240" alt="书房原图"></a> | <a href="examples/study-result.png"><img src="examples/study-result.png" width="240" alt="书房横纹效果"></a> |
 
 ## 使用
 
